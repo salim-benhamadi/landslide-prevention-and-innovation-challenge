@@ -9,7 +9,8 @@ Hong Kong, one of the hilly and densely populated cities in the world, is freque
 "The common practice of identifying landslides is visual interpretation which, however, is labor-intensive and time-consuming.,
  ***Thus, this hack will focus on automating the landslide identification process using artificial intelligence techniques***"
         "This will be achieved by using high-resolution terrain information to perform the terrain-based landslide identification. Other auxiliary data such as the lithology of the surface materials and rainfall intensification factor are also provided.
-## 🛠 Tech stuck
+        
+# 🛠 Tech stuck
 * Numpy
 * Pandas
 * matplotlib
@@ -18,13 +19,12 @@ Hong Kong, one of the hilly and densely populated cities in the world, is freque
 * catboost
 
 
-## Competition leaderboard
+# 🏆 Competition leaderboard
 - Look for the team name : milaSneB
-- Rank : 3/28
+- Rank : 3/28 🥉
 - Competition link : [Zind](https://zindi.africa/competitions/start-hack-22)
 
 
-| Name             | Zindi ID                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Salim Ben hammadi| [milaSneB](https://zindi.africa/users/milaSneB/competitions) |
-
+| Name             | Zindi ID                                                                | Rank On Leaderboard|
+| ----------------- | ------------------------------------------------------------------ |--------------------------|
+| Salim Ben hammadi| [milaSneB](https://zindi.africa/users/milaSneB/competitions) | 3/28|
